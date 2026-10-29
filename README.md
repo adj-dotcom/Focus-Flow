@@ -1,4 +1,4 @@
-# Estudio
+# Focus Flow
 
 Espacio local de estudio en un único `index.html`. No necesita Node.js, npm, servidor ni cuenta. Ábrelo en un navegador moderno; los proyectos, tareas y resúmenes se guardan en `localStorage`, y los archivos en `IndexedDB`.
 
